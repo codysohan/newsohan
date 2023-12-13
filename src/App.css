@@ -1,0 +1,4 @@
+/* This is for switching from themes as a smooth transition between them  */
+* {
+    transition: 0.2s ease-out 0s;
+}
